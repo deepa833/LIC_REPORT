@@ -1,8 +1,7 @@
 # LIC_REPORT
-LTSpice simulation of a CMOS circuit #1
+Circuit 1
 ### 1. INTRODUCTION
- In this experiment, a CMOS-based circuit is simulated using LTSpice to analyze its DC operating point, transient response, and AC characteristics. The circuit consists of a MOSFET, resistor and a volage source. The DC analysis helps to determine the biasing conditions, the transient analysis observe the circuit's time-domain response and the AC analysis evaluates its frequency-dependent behaviour. This simulation provides insight into the circuits's functionality, whether it acts as an amplifier, swtich or filter.    
-
+ In this experiment a cmos based circuit is simulated using LTspice to analyze its DC operating point, transient response, and AC characteristics .The circuite consists of MOFECT,resistor and a voltage source . The DC analysis helps to determine the biasing conditions , the tranisent anaalysis helps to determine the biasing conditions , the transient analysis observe the circuit's time domain response and the AC analysis evaluates its frequence - dependent behaviour . This simulation provides insight into the circuits functionality, whether it acts as an amplifier, switch or filter.
  ### 2. CIRCUIT DIAGRAM #1
  ![Screenshot 2025-02-15 174713](https://github.com/user-attachments/assets/b6b84ef4-e203-45b0-aa70-263cf6b06279)
    
